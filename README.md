@@ -38,8 +38,8 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>  
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<!-- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a> -->
   
 </p>
 

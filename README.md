@@ -59,6 +59,10 @@
 
 <br> -->
 
+<p align="right">   <a href="https://codepen.io/Gabriele9102" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /> </a>
+</p>
+
 
 <p align="right">   <a href="https://www.linkedin.com/in/gabriele-chiaramonte-6982a0254/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
